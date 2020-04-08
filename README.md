@@ -1,7 +1,7 @@
 # Analyzing-Big-Data-Course
 The Art of Analyzing Big Data - The Data Scientist’s Toolbox. 
 
-## Tool & Packages
+## Tools & Packages
 - Advanced SQL
 - Pandas
 - Matplotlib
