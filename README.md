@@ -8,7 +8,7 @@ See a tutorial at [https://github.com/Kaggle/kaggle-api#api-credentials](https:/
 ```sh
 api_token = {"username":"","key":""}
 ```
-2. Run choropleth.ipynb using Colab ([https://colab.research.google.com/](https://colab.research.google.com/)) or Jupiter.
+2. Run ech ipynb file using Colab ([https://colab.research.google.com/](https://colab.research.google.com/)) or Jupiter.
 
 ## Tools & Packages
 - Advanced SQL
