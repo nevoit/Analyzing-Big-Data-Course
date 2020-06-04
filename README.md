@@ -38,6 +38,11 @@ api_token = {"username":"","key":""}
 ### Assignment 5
 
 ### Assignment 6
+**Task:**  Select a reviews dataset and create a sentiment classifier which utilizes word embeddings. Evaluate this classifier. Try to improve your classifier by adding additional features.
+
+**Dataset:** [Courseras Course Reviews Dataset](https://www.kaggle.com/septa97/100k-courseras-course-reviews-dataset)
+
+![roc](https://github.com/nevoit/Analyzing-Big-Data-Course/blob/master/figures/hw_6_text_classification.png)
 
 ### Assignment 7
 **Task:**  Select two books and construct networks of people and locations, i.e. each link is between a a person and a location. Visualize the network using Cytoscape or Gephi.
