@@ -47,7 +47,7 @@ Create a short animation that displays how the chosen statistics changed over ti
 
 **Dataset:** [World Development Indicators](https://www.kaggle.com/worldbank/world-development-indicators)
 
-![word_exp](https://github.com/nevoit/Analyzing-Big-Data-Course/blob/master/figures/hw_8_life_expect.gif)
+![word_exp](https://github.com/nevoit/Analyzing-Big-Data-Course/blob/master/figures/hw_8_life_exp_.gif)
 
 ### Assignment 9
 **Task:** Select a short video with at least 3 persons and create a new movie from this video with a face tracker (each person’s face needs to be tracked by a rectangle of a different color). See, for example, the video in: https://github.com/ageitgey/face_recognition
