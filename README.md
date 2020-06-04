@@ -10,6 +10,37 @@ api_token = {"username":"","key":""}
 ```
 2. Run ech ipynb file using Colab ([https://colab.research.google.com/](https://colab.research.google.com/)) or Jupiter.
 
+## Examples
+
+#### Assignment 1:
+
+#### Assignment 2:
+
+#### Assignment 3:
+
+#### Assignment 4:
+
+#### Assignment 5:
+
+#### Assignment 6:
+
+#### Assignment 7:
+
+#### Assignment 8:
+
+#### Assignment 9:
+**Task:** Select a short video with at least 3 persons and create a new movie from this video with a face tracker (each person’s face needs to be tracked by a rectangle of a different color). See, for example, the video in: https://github.com/ageitgey/face_recognition
+
+![Question 1](https://github.com/nevoit/Analyzing-Big-Data-Course/blob/master/figures/hw_9_gif.gif?raw=true)
+
+**Task:** Select a collection of connected images. Create a graph of the links among images or objects in image.
+Use graph algorithms to discover interesting insights regarding the images.
+**Dataset:** [simpsons-characters]https://www.kaggle.com/alexattia/the-simpsons-characters-dataset)
+
+![Question 2](https://github.com/nevoit/Analyzing-Big-Data-Course/blob/master/figures/hw_9_network.png)
+
+#### Assignment 10:
+
 ## Tools & Packages
 - Advanced SQL
 - Pandas
