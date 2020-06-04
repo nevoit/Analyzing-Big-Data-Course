@@ -40,10 +40,17 @@ api_token = {"username":"","key":""}
 ### Assignment 6
 
 ### Assignment 7
+**Task:**  Select two books and construct networks of people and locations, i.e. each link is between a a person and a location. Visualize the network using Cytoscape or Gephi.
+
+**Dataset:** [Dickens](https://www.kaggle.com/fuzzyfroghunter/dickens)
+
+**Book Name:** Little Dorrit
+
+![gephi](https://github.com/nevoit/Analyzing-Big-Data-Course/blob/master/figures/hw_7_dorrit.png?raw=true)
 
 ### Assignment 8
 **Task:** Select a country's' statistic from the World Development Indicators dataset (Please notice there are several files in the dataset, such as Indicators.csv). Then, create a choropleth map displaying how the selected statistics changed over time
-Create a short animation that displays how the chosen statistics changed over timeץ
+Create a short animation that displays how the chosen statistics changed over time
 
 **Dataset:** [World Development Indicators](https://www.kaggle.com/worldbank/world-development-indicators)
 
