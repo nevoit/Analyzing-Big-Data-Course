@@ -50,6 +50,7 @@ api_token = {"username":"","key":""}
 
 **Task:** Select a collection of connected images. Create a graph of the links among images or objects in image.
 Use graph algorithms to discover interesting insights regarding the images.
+
 **Dataset:** [simpsons-characters](https://www.kaggle.com/alexattia/the-simpsons-characters-dataset)
 
 ![Question 2](https://github.com/nevoit/Analyzing-Big-Data-Course/blob/master/figures/hw_9_network.png)
